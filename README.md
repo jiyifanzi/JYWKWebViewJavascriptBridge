@@ -1,5 +1,5 @@
 # JYWKWebViewJavascriptBridge
-WKWebViewJavascriptBridge
+JYWKWebViewJavascriptBridge
 
 此项目基于 WebViewJavascriptBridge，WKWebViewJavascriptBridge
 因公司接手另外项目，其中用到了“WKWebViewJavascriptBridge”，此库仅支持Swift，所以不得已需要重新 实现一套OC可用的库
@@ -9,4 +9,4 @@ WKWebViewJavascriptBridge
 
 cocoapods使用方法
 
-pod 'WKWebViewJavascriptBridge'
+pod 'JYWKWebViewJavascriptBridge'
